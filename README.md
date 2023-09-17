@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayath de Silva</h1>
-🌱 I'm currently learning and keen to further explore blockchain, full-stack development, and AWS.
-🎓 Software Engineering (Plymouth, UK)
+- 🌱 I'm currently learning and keen to further explore blockchain, full-stack development, and AWS.
+- 🎓 Software Engineering (Plymouth, UK)
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayzilva&label=Profile%20views&color=0e75b6&style=flat" alt="jayzilva" /> </p> -->
 
