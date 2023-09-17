@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jayath de Silva</h1>
 
-<img align="left" alt="GIF" width="250px" src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif" />
+<!--<img align="left" alt="GIF" width="250px" src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif" />-->
 
-<br/>
 
 🌱 I'm currently learning and keen to further explore blockchain, full-stack development, and AWS.
 <br/> <br/>
-🎓 Bsc (Hons) Software Engineering Undergraduate (PLY) at NSBM Green University
+🎓 Bsc (Hons) Software Engineering Undergraduate (Plymouth) at NSBM Green University
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayzilva&label=Profile%20views&color=0e75b6&style=flat" alt="jayzilva" /> </p> -->
 📫 How to reach me
